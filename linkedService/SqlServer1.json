@@ -9,9 +9,9 @@
 			"database": "GOUTHAM_DB",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
-			"authenticationType": "Windows",
+			"authenticationType": "SQL",
 			"userName": "DESKTOP-FK1R025\\Admin",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjYjMxY2VlOC0yMWIxLTQ5ZWItYWUyNS1iNzI2MmVkOGRjODgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhZmU0NjQxMy1mZjlkLTRiMjAtYTA3MC02NmZjYzI5NTFiYzgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime2",
