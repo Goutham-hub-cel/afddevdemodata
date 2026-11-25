@@ -1,0 +1,21 @@
+{
+	"name": "LS_SQL_TBL_LKUP",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"server": "DESKTOP-FK1RO25\\SQLEXPRESS01",
+			"database": "GOUTHAM_DB",
+			"encrypt": "optional",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "goutham",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJmY2FiY2M1MC00NzE3LTQyMmItODU3ZS0xODYzNTEwNmIyMjYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime2",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
