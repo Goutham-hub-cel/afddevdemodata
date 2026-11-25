@@ -1,0 +1,12 @@
+{
+	"name": "DS_LOOKUP_TBL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_SQL_TBL_LKUP",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	}
+}
